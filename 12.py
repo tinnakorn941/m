@@ -119,9 +119,9 @@ ki10MID = ki10.profile.mid
 ki11MID = ki11.profile.mid
 ki12MID = ki12.profile.mid
 Bots = [gyeMID,aisMID,ki2MID,ki3MID,ki4MID,ki5MID,ki6MID,ki7MID,ki8MID,ki9MID,ki10MID,ki11MID,ki12MID] #ini jangan dinrubah Gunanya agar bot tidak saling kick
-creator = ["u104e95aaefb53cf411f77353f6a96ece"]
-Owner = ["u104e95aaefb53cf411f77353f6a96ece"]
-admin = ["u104e95aaefb53cf411f77353f6a96ece"]
+creator = ["โจ mid"]
+Owner = ["jo mid"]
+admin = ["jo mid"]
 
 gyeProfile = gye.getProfile()
 aisProfile = ais.getProfile()
@@ -253,7 +253,7 @@ def helpmessage():
                   "║͜͡☆➣ เชคบอท " + "\n" + \
                   "╰════════╬♥" + "\n" + \
                   "╭════════╬♥" + "\n" + \
-                  "║͜͡☆➣ Maibotline " + "\n" + \
+                  "║͜͡☆➣ jo.botline " + "\n" + \
                   "╰════════╬♥"
     return helpMessage
     
@@ -292,7 +292,7 @@ def helptexttospeech():
                   "║͜͡☆➣ คนอ่าน" + "\n" + \
                   "╰════════╬♥" + "\n" + \
                   "╭════════╬♥" + "\n" + \
-                  "║͜͡☆➣ Maibotline " + "\n" + \
+                  "║͜͡☆➣ jo botline " + "\n" + \
                   "╰════════╬♥"
     return helpTextToSpeech
     
@@ -331,7 +331,7 @@ def helptranslate():
                   "║͜͡☆➣ เตะ @" + "\n" + \
                   "╰════════╬♥" + "\n" + \
                   "╭════════╬♥" + "\n" + \
-                  "║͜͡☆➣ Maibotline " + "\n" + \
+                  "║͜͡☆➣ jo botline " + "\n" + \
                   "╰════════╬♥"
     return helpTranslate
 #==============================================================================#
